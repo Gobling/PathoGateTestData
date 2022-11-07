@@ -1,7 +1,7 @@
-Id;CaseName;Gender;Age;Race;Description;AdaptiveCase;AdaptiveSelectorId
-00000000-E46A-431A-A621-4056FD1F0573;Breast Case 1;Female;68;European;Palpable right breast mass. No family history available. Tumor size: 2.5 cm;1;00000000-F63D-4906-932D-C5D7F0A7E306
-00000000-90EC-41AE-B6C1-75728C5DC46F;Lung Case 1;Male;72;European;Smoking 50 years. No family history available. Tumor size: 4.0 cm;1;null
-00000000-E900-4197-98EA-F02B22F72CEB;Lung Case 2;Female;65;Asian;Never-smoker. Worked in textile industry for 37 years.;1;null
-00000000-baa1-433a-b968-4f4ef3f8f6cc;Demo cases; ;1;;Try out the demo cases below;0;null
-00000000-40ee-49e5-8a24-3df666f8c4db;Assessment cases; ;1; ;Please score the cases below according to the following criteria...;0;null
-00000000-1b97-4210-8ed7-60bbf0005745;Adaptive Breast Case;Female;68;European;Palpable right breast mass. No family history available. Tumor size: 2.5 cm;1;00000000-F63D-4906-932D-C5D7F0A7E306
+Id,CaseName,Gender,Age,Race,Description,AdaptiveCase,AdaptiveSelectorId
+00000000-E46A-431A-A621-4056FD1F0573,Breast Case 1,Female,68,European,Palpable right breast mass. No family history available. Tumor size: 2.5 cm,1,00000000-F63D-4906-932D-C5D7F0A7E306
+00000000-90EC-41AE-B6C1-75728C5DC46F,Lung Case 1,Male,72,European,Smoking 50 years. No family history available. Tumor size: 4.0 cm,1,null
+00000000-E900-4197-98EA-F02B22F72CEB,Lung Case 2,Female,65,Asian,Never-smoker. Worked in textile industry for 37 years.,1,null
+00000000-baa1-433a-b968-4f4ef3f8f6cc,Demo cases, ,1,,Try out the demo cases below,0,null
+00000000-40ee-49e5-8a24-3df666f8c4db,Assessment cases, ,1, ,Please score the cases below according to the following criteria...,0,null
+00000000-1b97-4210-8ed7-60bbf0005745,Adaptive Breast Case,Female,68,European,Palpable right breast mass. No family history available. Tumor size: 2.5 cm,1,00000000-F63D-4906-932D-C5D7F0A7E306
