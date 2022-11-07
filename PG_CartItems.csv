@@ -1,1 +1,1 @@
-Id,OrderId,OrderNumber,MemberId,EventId,Quantity,UpdateTimeStamp,Activated,ActivateTimeStamp
+Id;OrderId;OrderNumber;MemberId;EventId;Quantity;UpdateTimeStamp;Activated;ActivateTimeStamp

@@ -1,9 +1,9 @@
-Id,Name,Details
-00000000-3cc5-4d7f-9d71-95fe4db5bc1e,Demo images,
-00000000-dd63-490e-99df-10e980103445,Assessment images,
-00000000-23DB-433F-8D70-1915C2537285,Assessment images,
-00000000-a52c-41d4-8fab-b003bdefb424,Training images,
-00000000-087b-452c-b916-6abd76c1ac5b,Assessment images,
-00000000-1CF2-4979-8E0C-DE17273DBB85,TMA slides,
-00000000-995a-4f4a-be8a-f2931c0778e0,Kursus cases,Cases til gennemgang inden kurset
-00000000-86ca-4bc2-9b45-b6e5cd02c907,Participant Images,
+Id;Name;Details
+00000000-3cc5-4d7f-9d71-95fe4db5bc1e;Demo images;
+00000000-dd63-490e-99df-10e980103445;Assessment images;
+00000000-23DB-433F-8D70-1915C2537285;Assessment images;
+00000000-a52c-41d4-8fab-b003bdefb424;Training images;
+00000000-087b-452c-b916-6abd76c1ac5b;Assessment images;
+00000000-1CF2-4979-8E0C-DE17273DBB85;TMA slides;
+00000000-995a-4f4a-be8a-f2931c0778e0;Kursus cases;Cases til gennemgang inden kurset
+00000000-86ca-4bc2-9b45-b6e5cd02c907;Participant Images;

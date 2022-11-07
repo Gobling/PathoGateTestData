@@ -1,1 +1,1 @@
-Id,TeamId,MemberId,BillingDetailsId,StripeCustomerId
+Id;TeamId;MemberId;BillingDetailsId;StripeCustomerId
