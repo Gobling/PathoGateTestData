@@ -48,7 +48,7 @@ Id;Name;FolderId;ImageType;LocalPath;ReferenceImageId;Boundary;Description;
 00000000-ed5c-4d81-90df-8f5ef4551d0d;ORTO 14;00000000-1f3f-4b4e-be69-1aa4433569ee;WSImage;ORTO 14.ndpi;null;null;Image for ORTO module ;
 00000000-da1c-45ce-802c-6f421aad692e;ORTO 15;00000000-1f3f-4b4e-be69-1aa4433569ee;WSImage;ORTO 15.ndpi;null;null;Image for ORTO module ;
 00000000-22e4-4fb0-bc46-fc6bdcc3700d;ORTO 16;00000000-1f3f-4b4e-be69-1aa4433569ee;WSImage;ORTO 16.ndpi;null;null;Image for ORTO module ;
-00000000-9255-40CA-A7C7-1B50A37BC5AF;Macro Image;10000000-0000-0000-0000-000000000000;WebImage;https://www.cancerquest.org/sites/default/files/assets/image/breast_macro_invasive.jpg;00000000-0000-0000-0000-000000000000;NULL;null;null
+00000000-9255-40CA-A7C7-1B50A37BC5AF;Macro Image;40000000-0000-0000-0000-000000000000;WebImage;https://www.cancerquest.org/sites/default/files/assets/image/breast_macro_invasive.jpg;00000000-0000-0000-0000-000000000000;NULL;null;null
 00000000-b2ae-46cd-b9e6-30cd89b7bc00;BC1 H&E;00000000-a798-4d63-a265-92339c30e6be;WSImage;OS-1.ndpi;null;null;Image from openslideserver ;
 00000000-949f-40e5-8e22-33ba7177592a;BC1 ER;00000000-a798-4d63-a265-92339c30e6be;WSImage;OS-2.ndpi;null;null;Image from openslideserver ;
 00000000-2f6b-4103-a874-b584e1ef708e;BC1 PR;00000000-a798-4d63-a265-92339c30e6be;WSImage;OS-3.ndpi;null;null;Image from openslideserver ;
