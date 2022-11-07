@@ -1,1 +1,3 @@
-Id;Name;Line1;Line2;City;PostalCode;State;Country;TaxId;StripeTaxType;StripeTaxShortCode;StripeTaxId;StripeTaxIdVerified;StripeTaxIdVerifiedInfo
+Id,Name,Line1,Line2,City,PostalCode,State,Country,TaxId,StripeTaxType,StripeTaxShortCode,StripeTaxId,StripeTaxIdVerified,StripeTaxIdVerifiedInfo
+C7164375-3DA2-496E-AC76-2F9580F3EF0B,PathoPulseApS,Holmevej 105,sdf,S?borg,2860,,Denmark,DK42004405,eu_vat,VAT,txi_1Jc5tEJ7oRw6FFrusDNSGE7G,1,"TEST, 123 TEST STREET"
+E557F140-4F71-4D1A-8BB6-4B008D01E71A,PathoPulseApS,Holmevej 105,sdf,S?borg,2860,,Denmark,DK42004405,eu_vat,,txi_1Jc5jMJ7oRw6FFru5lyKnXQb,1,"TEST, 123 TEST STREET"
