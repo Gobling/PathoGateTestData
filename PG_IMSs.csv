@@ -7,7 +7,6 @@ Id;IMSType;Url;Name
 60000000-0000-0000-0000-000000000000;openslide;https://openslide.pathogate.net/;openslide.pathogate.net
 70000000-0000-0000-0000-000000000000;openslide;https://openslide.pathogate.net/;openslide.pathogate.net - dev
 80000000-0000-0000-0000-000000000000;omero;https://omero.pathogate.net/;omero.pathogate.net
-00000000-8638-4964-8012-0F39E4A70B35;local;;
 00000000-7920-437A-B146-FF9D3716D10A;ndpserve;https://ndpserver.ukneqasiccish.org/;UK NEQAS - test
 00000000-7245-4dd7-934d-ccd0793c9079;openslide;http://127.0.0.1:5000/;Open local slide server
 00000000-990e-4a21-ac04-8b6b026031f7;omero;http://35.228.186.221/;Omero - test
