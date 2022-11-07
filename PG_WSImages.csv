@@ -1,11 +1,11 @@
 Id;Name;FolderId;ImageType;LocalPath;ReferenceImageId;Boundary;Description;
-00000000-891B-4B3E-B7BE-43E7972B622F;PD-L1;00000000-67c5-42b8-bf57-498524f5df70;Image;/css/SeaDragonImages/2FBB0318-4865-4EB5-9EBB-3CE03A82F99C.jfif;null;null;Palpable right breast mass.;
-00000000-9E68-4500-AFCB-51FEC829D301;H&E;00000000-67c5-42b8-bf57-498524f5df70;Image;/css/SeaDragonImages/AF857E13-4488-4405-8334-5281668A4096.jfif;null;null;null;
-00000000-42E3-40BC-B7FF-62C1FDE41EF5;X-Ray;00000000-67c5-42b8-bf57-498524f5df70;Image;/css/SeaDragonImages/xray-lung-cancer-2.jfif;null;null;null;
-00000000-DC84-453A-953B-648EE1A088DB;X-Ray;00000000-67c5-42b8-bf57-498524f5df70;Image;/css/SeaDragonImages/xray-lung-cancer-1.jpg;null;null;null;
-00000000-4388-4A5F-B4FC-B3DFE8EB272B;Mammogram;00000000-67c5-42b8-bf57-498524f5df70;Image;/css/SeaDragonImages/Mammogram.jpg;null;null;null;
-00000000-02DC-4313-972B-C254308162D9;Random Marker;00000000-67c5-42b8-bf57-498524f5df70;Image;/css/SeaDragonImages/EDC93057-2568-4ECF-9F24-F746B3088695.jfif;null;null;null;
-00000000-D525-47EC-96EB-DEA00A1C631B;Lung Macro Image;00000000-67c5-42b8-bf57-498524f5df70;Image;/css/SeaDragonImages/Resected-lung.png;null;null;null;
+00000000-891B-4B3E-B7BE-43E7972B622F;PD-L1;10000000-0000-0000-0000-000000000000;Image;/css/SeaDragonImages/2FBB0318-4865-4EB5-9EBB-3CE03A82F99C.jfif;null;null;Palpable right breast mass.;
+00000000-9E68-4500-AFCB-51FEC829D301;H&E;10000000-0000-0000-0000-000000000000;Image;/css/SeaDragonImages/AF857E13-4488-4405-8334-5281668A4096.jfif;null;null;null;
+00000000-42E3-40BC-B7FF-62C1FDE41EF5;X-Ray;10000000-0000-0000-0000-000000000000;Image;/css/SeaDragonImages/xray-lung-cancer-2.jfif;null;null;null;
+00000000-DC84-453A-953B-648EE1A088DB;X-Ray;10000000-0000-0000-0000-000000000000;Image;/css/SeaDragonImages/xray-lung-cancer-1.jpg;null;null;null;
+00000000-4388-4A5F-B4FC-B3DFE8EB272B;Mammogram;10000000-0000-0000-0000-000000000000;Image;/css/SeaDragonImages/Mammogram.jpg;null;null;null;
+00000000-02DC-4313-972B-C254308162D9;Random Marker;10000000-0000-0000-0000-000000000000;Image;/css/SeaDragonImages/EDC93057-2568-4ECF-9F24-F746B3088695.jfif;null;null;null;
+00000000-D525-47EC-96EB-DEA00A1C631B;Lung Macro Image;10000000-0000-0000-0000-000000000000;Image;/css/SeaDragonImages/Resected-lung.png;null;null;null;
 00000000-37df-486f-beeb-f223f1c851ed;PD-L1;00000000-7774-4afd-8ed2-3b551061a3e0;WSImage;UKN-0125-0092%20-%202019-03-21%2015.53.07.ndpi;null;null;Image from openslideserver ;
 00000000-32c3-431c-8c9e-3e18506c1e52;Demo - 1;00000000-7774-4afd-8ed2-3b551061a3e0;WSImage;UKN%200123%200125%201633%20(N).ndpi;null;null;Image from openslideserver ;
 00000000-d854-4084-be29-83822a04105f;Demo - 2;00000000-7774-4afd-8ed2-3b551061a3e0;WSImage;UKN%200123%200150%20519%20(N).ndpi;null;null;Image from openslideserver ;
