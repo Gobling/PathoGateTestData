@@ -1,8 +1,8 @@
-Id,IMSType,Url,Name
-10000000-0000-0000-0000-000000000000,local,,
-00000000-8638-4964-8012-0f39e4a70b35,local,,
-00000000-ab16-490d-ba47-c6866569e990,web,,
-00000000-7245-4dd7-934d-ccd0793c9079,openslide,http://127.0.0.1:5000/,Open local slide server
-00000000-2c12-4689-b454-c080429fce1e,ndpserve,https://www.ndpserve.de/,NDP.Serve - test
-00000000-990e-4a21-ac04-8b6b026031f7,omero,http://35.228.186.221/,Omero - test
-00000000-7920-437a-b146-ff9d3716d10a,ndpserve,https://ndpserver.ukneqasiccish.org/,UK NEQAS - test
+Id;IMSType;Url;Name
+10000000-0000-0000-0000-000000000000;local;;
+00000000-8638-4964-8012-0f39e4a70b35;local;;
+00000000-ab16-490d-ba47-c6866569e990;web;;
+00000000-7245-4dd7-934d-ccd0793c9079;openslide;http://127.0.0.1:5000/;Open local slide server
+00000000-2c12-4689-b454-c080429fce1e;ndpserve;https://www.ndpserve.de/;NDP.Serve - test
+00000000-990e-4a21-ac04-8b6b026031f7;omero;http://35.228.186.221/;Omero - test
+00000000-7920-437a-b146-ff9d3716d10a;ndpserve;https://ndpserver.ukneqasiccish.org/;UK NEQAS - test
